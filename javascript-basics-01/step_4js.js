@@ -6,5 +6,5 @@ document.getElementById("name").value=name;
 document.getElementById("surname").value=last_name;
 document.getElementById("city").value=city;
 document.getElementById("validate").onclick=function(){
-    alert("Hello "+name+" "+last_name+" who live in "+city);
+    alert("Hello "+ name +" "+last_name+" who live in "+city);
 }
