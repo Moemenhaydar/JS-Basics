@@ -1,4 +1,2 @@
-function fun(){
-    var name =document.getElementById('fn').value;
-    alert("Name : "+name)
-}
+var name="moemen"
+alert(name);
